@@ -1,6 +1,6 @@
 {
   "name": "sum-xuanthinh",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,9 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-    "sum-xuanthinh": "^1.0.0"
+    "sum-xuanthinh": "^1.0.0",
+  "sum-setpass": "^1.0.0",
+  "sum-giahuyluong": "^1.0.0"
   },
   "repository": {
     "type": "git",
@@ -22,6 +24,6 @@
     "tong",
     "cong"
   ],
-  "author": "xuathinh",
+  "author": "xuanthinh",
   "license": "MIT"
 }
